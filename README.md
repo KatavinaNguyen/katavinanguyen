@@ -13,9 +13,7 @@ I thrive in roles where I can go in-depth into backend logic, improve performanc
 
 ---
 
-## 💻 Tech Stack
-
-### Languages & Frameworks
+#### Languages & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
@@ -27,9 +25,8 @@ I thrive in roles where I can go in-depth into backend logic, improve performanc
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 
----
 
-### AWS & Cloud
+#### AWS & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge\&logo=aws-lambda\&logoColor=white)
@@ -41,18 +38,16 @@ I thrive in roles where I can go in-depth into backend logic, improve performanc
 ![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge\&logo=amazon-ecs\&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge\&logo=amazon-ec2\&logoColor=white)
 
----
 
-### DevOps, CI/CD & ML
+#### DevOps, CI/CD & ML
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
----
 
-### Certifications
+#### Certifications
 
 ![AWS DVA-C02](https://img.shields.io/badge/AWS_Developer_Associate-DVA--C02-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![AWS CLF-C02](https://img.shields.io/badge/AWS_Cloud_Practitioner-CLF--C02-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
